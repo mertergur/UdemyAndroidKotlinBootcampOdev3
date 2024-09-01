@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">odev3</string>
+    <string name="my_cards">My Cards</string>
+    <string name="card_number" translatable="false">1111 2222 3333 4444</string>
+    <string name="fullname" translatable="false">AR Jonson</string>
+    <string name="exp_date" translatable="false">Expiry Date</string>
+    <string name="cvv" translatable="false">CVV</string>
+    <string name="exp_date_text" translatable="false">24/2000</string>
+    <string name="cvv_code" translatable="false">6986</string>
+    <string name="card_type" translatable="false">Mastercard</string>
+    <string name="apple_store" translatable="false">Apple Store</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="apple_price">- $5.99</string>
+    <string name="spotify" translatable="false">Spotify</string>
+    <string name="music">Music</string>
+    <string name="spotify_price">- $12.99</string>
+    <string name="grocery" translatable="false">Grocery</string>
+    <string name="shopping">Shopping</string>
+    <string name="grocery_price">- $88</string>
+    <string name="monthly_spending_limit">Monthly spending limit</string>
+    <string name="amount">Amount:</string>
+    <string name="amount_price">$8545.00</string>
+    <string name="slider_value_from" translatable="false">0</string>
+    <string name="slider_value_to">10000</string>
+    <string name="value_to">10000.0</string>
+</resources>

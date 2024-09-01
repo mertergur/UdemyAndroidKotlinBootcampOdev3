@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_cards">Kartlarim</string>
+    <string name="entertainment">Eglence</string>
+    <string name="apple_price">- 201,59 TL</string>
+    <string name="music">Muzik</string>
+    <string name="spotify_price">- 436,45 TL</string>
+    <string name="shopping">Alisveris</string>
+    <string name="grocery_price">- 2956,69 TL</string>
+    <string name="monthly_spending_limit">Aylik harcama limiti</string>
+    <string name="amount">Tutar:</string>
+    <string name="amount_price">287100,89</string>
+    <string name="slider_value_to">340000</string>
+    <string name="value_to">340000</string>
+</resources>

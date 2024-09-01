@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#1E1E2D</color>
+    <color name="cardTextColor">#FFFFFF</color>
+    <color name="mainColor">#FFFFFF</color>
+    <color name="grey">#A2A2A7</color>
+    <color name="lightGrey">#F4F4F4</color>
+    <color name="extraLightGrey">#E7E7E9</color>
+    <color name="lightBlue">#4B5B98</color>
+    <color name="darkBlue">#25253D</color>
+    <color name="extraLightBlue">#0066FF</color>
+</resources>
